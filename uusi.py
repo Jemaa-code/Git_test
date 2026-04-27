@@ -1,0 +1,1 @@
+print("Terve, tämä on tehtävä 20")
